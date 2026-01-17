@@ -6,8 +6,6 @@ This post takes that exact foundation and turns it into something immediately us
 
 Reference: https://developers.google.com/workspace/chat/quickstart/apps-script-app?utm_source=chatgpt.com
 
-Where you see placeholders below, you will paste your own Apps Script code, your n8n workflow JSON, and your screenshots.
-
 ---
 
 ## The idea: keep Apps Script boring, let n8n do the real work
