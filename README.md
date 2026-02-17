@@ -1,4 +1,4 @@
-# Google Chat -> n8n Connector (via Apps Script): A Practical Build Guide You Can Paste Your Own Code Into
+# Google Chat -> n8n Connector (via Apps Script): A Practical Build Guide
 
 Google's official quickstart for Google Chat apps is intentionally simple: it shows you how to create a Chat app in Google Cloud, wire it to an Apps Script deployment, and prove the loop works by returning a basic response inside Google Chat. That's the important part -- once you can reliably receive a Chat event in Apps Script and send a reply back to Chat, you have a production-grade entry point.
 
